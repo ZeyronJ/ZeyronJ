@@ -1,5 +1,5 @@
 # 💫 Acerca de
-¡Hola! Soy Javier, egresado de Ing. Civil en Computación e Informática, me apasiona la creación y desarrollo de soluciones tecnológicas innovadoras. <br>Me he desempeñado en trabajos de proyectos de desarrollo de aplicaciones web Full Stack utilizando diversos lenguajes y frameworks. <br>Tambien he incursionado en el desarrollo de aplicaciones moviles y de realidad virtual.
+Ingeniero Civil en Computación e Informática con dos años de experiencia profesional. Especializado en el desarrollo de aplicaciones web Full Stack y móviles.
 
 
 ## 🌐 Socials
