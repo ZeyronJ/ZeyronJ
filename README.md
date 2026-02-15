@@ -1,4 +1,4 @@
-# 💫 Sobre mí
+# Sobre mí
 ngeniero Civil en Computación e Informática, con más de dos años de experiencia profesional. Me he desempeñado principalmente en proyectos de desarrollo de aplicaciones web Full Stack con inteligencia artificial y automatizaciones.
 
 
