@@ -2,7 +2,7 @@
 Ingeniero Civil en Computación e Informática, con más de dos años de experiencia profesional. Me he desempeñado principalmente en proyectos de desarrollo de aplicaciones web Full Stack con inteligencia artificial y automatizaciones.
 
 
-## 🌐 Socials
+# 🌐 Socials
 <a href="mailto:javiermamani91@gmail.com" target="_blank"><img style="height:21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-mamani-lovera)
 
